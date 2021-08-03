@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/EmployeeClass.dir/main.cpp.o  -o EmployeeClass.exe -Wl,--out-implib,libEmployeeClass.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
