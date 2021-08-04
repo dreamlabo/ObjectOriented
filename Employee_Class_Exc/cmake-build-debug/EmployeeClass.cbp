@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Employee_Class_Exc/Employee.cpp">
+			<Option target="EmployeeClass"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Employee_Class_Exc/Employee.h">
+			<Option target="EmployeeClass"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Employee_Class_Exc/main.cpp">
 			<Option target="EmployeeClass"/>
 		</Unit>

@@ -123,6 +123,33 @@ EmployeeClass/fast:
 	$(MAKE) -f CMakeFiles/EmployeeClass.dir/build.make CMakeFiles/EmployeeClass.dir/build
 .PHONY : EmployeeClass/fast
 
+Employee.o: Employee.cpp.o
+
+.PHONY : Employee.o
+
+# target to build an object file
+Employee.cpp.o:
+	$(MAKE) -f CMakeFiles/EmployeeClass.dir/build.make CMakeFiles/EmployeeClass.dir/Employee.cpp.o
+.PHONY : Employee.cpp.o
+
+Employee.i: Employee.cpp.i
+
+.PHONY : Employee.i
+
+# target to preprocess a source file
+Employee.cpp.i:
+	$(MAKE) -f CMakeFiles/EmployeeClass.dir/build.make CMakeFiles/EmployeeClass.dir/Employee.cpp.i
+.PHONY : Employee.cpp.i
+
+Employee.s: Employee.cpp.s
+
+.PHONY : Employee.s
+
+# target to generate assembly for a file
+Employee.cpp.s:
+	$(MAKE) -f CMakeFiles/EmployeeClass.dir/build.make CMakeFiles/EmployeeClass.dir/Employee.cpp.s
+.PHONY : Employee.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... EmployeeClass"
 	@echo "... edit_cache"
+	@echo "... Employee.o"
+	@echo "... Employee.i"
+	@echo "... Employee.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

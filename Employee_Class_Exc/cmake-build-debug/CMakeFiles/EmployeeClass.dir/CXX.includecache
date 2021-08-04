@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Employee_Class_Exc/Employee.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Employee_Class_Exc/main.cpp
+iostream
+-
+Employee.h
+/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Employee_Class_Exc/Employee.h
+vector
+-
+iomanip
+-
+
