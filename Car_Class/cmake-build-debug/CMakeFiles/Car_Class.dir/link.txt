@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Car_Class.dir/main.cpp.o CMakeFiles/Car_Class.dir/Car.cpp.o  -o Car_Class.exe -Wl,--out-implib,libCar_Class.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
