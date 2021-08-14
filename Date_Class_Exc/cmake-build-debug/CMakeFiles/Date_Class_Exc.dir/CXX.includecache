@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Date_Class_Exc/Date.h
+iostream
+-
+
+/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Date_Class_Exc/main.cpp
+iostream
+-
+Date.h
+/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Date_Class_Exc/Date.h
+

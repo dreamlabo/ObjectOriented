@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Date_Class_Exc/Date.h">
+			<Option target="Date_Class_Exc"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Date_Class_Exc/main.cpp">
 			<Option target="Date_Class_Exc"/>
 		</Unit>
