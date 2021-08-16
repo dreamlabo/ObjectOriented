@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Person_Info_Class.dir/main.cpp.o  -o Person_Info_Class.exe -Wl,--out-implib,libPerson_Info_Class.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

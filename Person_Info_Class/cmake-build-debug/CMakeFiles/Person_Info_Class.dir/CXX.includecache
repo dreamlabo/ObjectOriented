@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Person_Info_Class/PersonalInfo.h
+string
+-
+
+/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Person_Info_Class/main.cpp
+iostream
+-
+PersonalInfo.h
+/cygdrive/c/Users/toddl/Desktop/ObjectOriented/ObjectOriented/Person_Info_Class/PersonalInfo.h
+iomanip
+-
+vector
+-
+

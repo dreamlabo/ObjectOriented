@@ -11,7 +11,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92bec37c-1b07-4053-a07b-3878f5772164" name="Default Changelist" comment="" />
+    <list default="true" id="92bec37c-1b07-4053-a07b-3878f5772164" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Person_Info_Class/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person_Info_Class/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person_Info_Class/PersonalInfo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person_Info_Class/PersonalInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person_Info_Class/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car_Class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Car_Class/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Date_Class_Exc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Date_Class_Exc/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="63">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -77,11 +82,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-75" />
-    <option name="y" value="30" />
-    <option name="width" value="1255" />
-    <option name="height" value="920" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="636" />
+    <option name="y" value="-1440" />
+    <option name="width" value="1294" />
+    <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -143,17 +148,18 @@
       <workItem from="1627961860103" duration="2596000" />
       <workItem from="1628018964402" duration="6859000" />
       <workItem from="1628890683251" duration="49000" />
+      <workItem from="1629130297504" duration="832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9753000" />
+    <option name="totallyTimeSpent" value="10585000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="636" y="-1440" width="1294" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3176661" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -201,11 +207,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="35" column="63" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
